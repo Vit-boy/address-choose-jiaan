@@ -146,7 +146,7 @@
         align-items: center;
 
         .container {
-            width: 5.78rem;
+            width: 7.1rem;
             overflow: hidden;
             border-radius: 0.2rem;
             background-color: #fff;
@@ -163,16 +163,16 @@
             .choose {
                 position: relative;
                 width: 100%;
-                height: 1.95rem;
+                height: 3rem;
                 display: flex;
                 margin-top: 0.1rem;
                 justify-content: center;
 
                 .line {
-                    top: 0.65rem;
+                    top: 1rem;
                     position: absolute;
                     width: 100%;
-                    height: 0.63rem;
+                    height: 1rem;
                     border-top: solid 0.01rem #ededed;
                     border-bottom: solid 0.01rem #ededed;
                 }
@@ -194,7 +194,8 @@
                         justify-content: center;
                         overflow: hidden;
                         text-overflow:ellipsis;
-                        white-space: nowrap;
+                        // white-space: nowrap;
+                        text-align: center;
 
                         &.swiper-slide-active {
                             color: #28b28b;

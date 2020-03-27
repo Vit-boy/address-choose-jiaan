@@ -1,6 +1,6 @@
 {
   "name": "address-choose-jiaan",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "vue-address-choose-component by jiaan.cui",
   "main": "dist/index.js",
   "scripts": {
